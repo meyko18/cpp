@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/22892/Desktop/code/C++/00.C++plus/01.dynamic memory allocation/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/my_cmake.dir/includes_CXX.rsp -g -o CMakeFiles\\my_cmake.dir\\src\\main.cpp.obj -c \"C:\\Users\\22892\\Desktop\\code\\C++\\00.C++plus\\01.dynamic memory allocation\\src\\main.cpp\"",
+  "file": "C:/Users/22892/Desktop/code/C++/00.C++plus/01.dynamic memory allocation/src/main.cpp",
+  "output": "CMakeFiles/my_cmake.dir/src/main.cpp.obj"
+}
+]

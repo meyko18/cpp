@@ -1,0 +1,3 @@
+C:/Users/22892/Desktop/code/C++/00.C++plus/01.dynamic memory allocation/build/CMakeFiles/my_cmake.dir
+C:/Users/22892/Desktop/code/C++/00.C++plus/01.dynamic memory allocation/build/CMakeFiles/edit_cache.dir
+C:/Users/22892/Desktop/code/C++/00.C++plus/01.dynamic memory allocation/build/CMakeFiles/rebuild_cache.dir
