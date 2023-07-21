@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/22892/Desktop/code/C++/00.C++plus/06.class combat/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/my_cmake.dir/includes_CXX.rsp -g -o CMakeFiles\\my_cmake.dir\\src\\main.cpp.obj -c \"C:\\Users\\22892\\Desktop\\code\\C++\\00.C++plus\\06.class combat\\src\\main.cpp\"",
+  "file": "C:/Users/22892/Desktop/code/C++/00.C++plus/06.class combat/src/main.cpp",
+  "output": "CMakeFiles/my_cmake.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/22892/Desktop/code/C++/00.C++plus/06.class combat/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/my_cmake.dir/includes_CXX.rsp -g -o CMakeFiles\\my_cmake.dir\\src\\student.cpp.obj -c \"C:\\Users\\22892\\Desktop\\code\\C++\\00.C++plus\\06.class combat\\src\\student.cpp\"",
+  "file": "C:/Users/22892/Desktop/code/C++/00.C++plus/06.class combat/src/student.cpp",
+  "output": "CMakeFiles/my_cmake.dir/src/student.cpp.obj"
+}
+]
