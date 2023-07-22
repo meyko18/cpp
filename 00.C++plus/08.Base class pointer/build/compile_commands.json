@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/22892/Desktop/code/C++/00.C++plus/08.Base class pointer/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/my_cmake.dir/includes_CXX.rsp -g -o CMakeFiles\\my_cmake.dir\\src\\main.cpp.obj -c \"C:\\Users\\22892\\Desktop\\code\\C++\\00.C++plus\\08.Base class pointer\\src\\main.cpp\"",
+  "file": "C:/Users/22892/Desktop/code/C++/00.C++plus/08.Base class pointer/src/main.cpp",
+  "output": "CMakeFiles/my_cmake.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/22892/Desktop/code/C++/00.C++plus/08.Base class pointer/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/my_cmake.dir/includes_CXX.rsp -g -o CMakeFiles\\my_cmake.dir\\src\\animal.cpp.obj -c \"C:\\Users\\22892\\Desktop\\code\\C++\\00.C++plus\\08.Base class pointer\\src\\animal.cpp\"",
+  "file": "C:/Users/22892/Desktop/code/C++/00.C++plus/08.Base class pointer/src/animal.cpp",
+  "output": "CMakeFiles/my_cmake.dir/src/animal.cpp.obj"
+},
+{
+  "directory": "C:/Users/22892/Desktop/code/C++/00.C++plus/08.Base class pointer/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/my_cmake.dir/includes_CXX.rsp -g -o CMakeFiles\\my_cmake.dir\\src\\cat.cpp.obj -c \"C:\\Users\\22892\\Desktop\\code\\C++\\00.C++plus\\08.Base class pointer\\src\\cat.cpp\"",
+  "file": "C:/Users/22892/Desktop/code/C++/00.C++plus/08.Base class pointer/src/cat.cpp",
+  "output": "CMakeFiles/my_cmake.dir/src/cat.cpp.obj"
+},
+{
+  "directory": "C:/Users/22892/Desktop/code/C++/00.C++plus/08.Base class pointer/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/my_cmake.dir/includes_CXX.rsp -g -o CMakeFiles\\my_cmake.dir\\src\\bird.cpp.obj -c \"C:\\Users\\22892\\Desktop\\code\\C++\\00.C++plus\\08.Base class pointer\\src\\bird.cpp\"",
+  "file": "C:/Users/22892/Desktop/code/C++/00.C++plus/08.Base class pointer/src/bird.cpp",
+  "output": "CMakeFiles/my_cmake.dir/src/bird.cpp.obj"
+}
+]
