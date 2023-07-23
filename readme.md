@@ -14,6 +14,9 @@
 - [06.类的实战相关](./00.C++plus/06.class%20combat/readme.md)
 - [07.派生类](./00.C++plus/07.Derived%20class/readme.md)
 - [08.基类指针](./00.C++plus/08.Base%20class%20pointer/readme.md)
+- [09.友元类](./00.C++plus/09.friend%20class/readme.md)
+- [10.RTTI](./00.C++plus/10.RTTI/readme.md)
+- [11.基类和派生类(补充)](./00.C++plus/11.base%20class%20and%20derived%20class/readme.md)
 
 ## 02. [设计模式](./01.Design%20Patterns/readme.md)
 
@@ -35,4 +38,4 @@ C++11 是 C++ 语言的一个重要的更新，它引入了许多新特性，使
 
 ✨ **项目逐渐完善中...** ✨
 
-🖋 **作者：Chen Ming** 🖋
+🖋 **作者：Meyko18** 🖋

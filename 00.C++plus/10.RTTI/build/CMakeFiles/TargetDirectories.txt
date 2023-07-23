@@ -1,0 +1,3 @@
+C:/Users/22892/Desktop/code/C++/00.C++plus/10.RTTI/build/CMakeFiles/my_cmake.dir
+C:/Users/22892/Desktop/code/C++/00.C++plus/10.RTTI/build/CMakeFiles/edit_cache.dir
+C:/Users/22892/Desktop/code/C++/00.C++plus/10.RTTI/build/CMakeFiles/rebuild_cache.dir

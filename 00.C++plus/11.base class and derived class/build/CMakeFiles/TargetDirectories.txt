@@ -1,0 +1,3 @@
+C:/Users/22892/Desktop/code/C++/00.C++plus/11.base class and derived class/build/CMakeFiles/my_cmake.dir
+C:/Users/22892/Desktop/code/C++/00.C++plus/11.base class and derived class/build/CMakeFiles/edit_cache.dir
+C:/Users/22892/Desktop/code/C++/00.C++plus/11.base class and derived class/build/CMakeFiles/rebuild_cache.dir
