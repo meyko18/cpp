@@ -57,3 +57,18 @@ public:
 
 MyClass obj{5, 3.14};
 ```
+
+5\.  不想当基类的类（final关键字）
+------------
+
+使用 final 关键字可以阻止类被进一步派生。
+
+cpp
+
+```cpp
+class Base final {
+    // ...
+};
+
+// class Derived : public Base {};  // This will cause a compile-time error.
+```
