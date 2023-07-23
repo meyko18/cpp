@@ -17,6 +17,8 @@ int main(int argc, char *argv[])
     pAnimal = new Cat();
     pAnimal->eat();
 
+    pAnimal->breathe();
+
 
     delete pAnimal;
 

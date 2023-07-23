@@ -13,6 +13,7 @@
 - [05.C++中的类型转换](./00.C++plus/05.type%20conversion/readme.md)
 - [06.类的实战相关](./00.C++plus/06.class%20combat/readme.md)
 - [07.派生类](./00.C++plus/07.Derived%20class/readme.md)
+- [08.基类指针](./00.C++plus/08.Base%20class%20pointer/readme.md)
 
 ## 02. [设计模式](./01.Design%20Patterns/readme.md)
 
@@ -22,6 +23,12 @@
 - [02.模板方法](./01.Design%20Patterns/02.beverage/readme.md)
 - [03.策略模式方法](./01.Design%20Patterns/03.SortStrategy/readme.md)
 
+
+## 03. [C++11新特性](./02.New%20features%20of%20C++11/readme.md)
+
+C++11 是 C++ 语言的一个重要的更新，它引入了许多新特性，使得编程更加简洁、高效和安全。
+
+- [01.这是一个模板](./02.New%20features%20of%20C++11/readme.md)
 
 
 ---
