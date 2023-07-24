@@ -72,3 +72,27 @@ class Base final {
 
 // class Derived : public Base {};  // This will cause a compile-time error.
 ```
+
+6\.  引用新数据类型 &&
+------------
+
+右值引用是C++11引入的，主要用于实现移动语义和完美转发。
+
+cpp
+
+```cpp
+int&& rref = 10 + 20;
+```
+
+7\.  C++11标准库里的新函数`std::move` 
+------------
+
+`std::move` 是一个模板函数，它接受一个左值参数并返回该参数的右值引用。
+使用 `std::move` 可以将左值转换为右值，从而触发移动语义。
+
+cpp
+
+```cpp
+std::string str = "hello";
+std::string movedStr = std::move(str);
+```

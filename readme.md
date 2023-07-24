@@ -17,6 +17,7 @@
 - [09.友元类](./00.C++plus/09.friend%20class/readme.md)
 - [10.RTTI](./00.C++plus/10.RTTI/readme.md)
 - [11.基类和派生类(补充)](./00.C++plus/11.base%20class%20and%20derived%20class/readme.md)
+- [12.左值和右值](./00.C++plus/12.lvalues%20and%20rvalues/readme.md)
 
 ## 02. [设计模式](./01.Design%20Patterns/readme.md)
 
