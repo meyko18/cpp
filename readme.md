@@ -4,7 +4,7 @@
 
 ## 01. [C++深度探索对象模型](./00.C++plus/readme.md)
 
-本部分主要探讨C++的核心概念和对象模型。从动态内存分配到类的实战应用，您将全面了解C++的魅力和强大功能。
+本部分主要探讨C++的核心概念和对象模型。从动态内存分配到类的实战应用。
 
 - [01.动态内存分配](./00.C++plus/01.dynamic%20memory%20allocation/readme.md)
 - [02.类介绍](./00.C++plus/02.class%20introduction/readme.md)
